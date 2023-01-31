@@ -1,0 +1,1 @@
+In Python, "everything is an object" means that every data type in Python is implemented as an object, including integers, strings, lists, functions, and classes. This means that every data item has attributes and methods associated with it, which can be accessed and used to manipulate the object.
