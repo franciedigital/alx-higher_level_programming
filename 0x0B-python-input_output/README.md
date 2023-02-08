@@ -1,0 +1,1 @@
+In Python, you can get input from the user using the input() function. The input() function waits for the user to type in some text, and then returns that text as a string. Here's an example:
